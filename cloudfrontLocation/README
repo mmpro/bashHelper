@@ -1,0 +1,16 @@
+#Installation
+Linux
+sudo apt-get install jq
+
+Mac
+brew install jq
+
+Update the Bash script to your JQ location (if necessary).
+
+Make sure the Bash script is executable (chmod a+x).
+
+#Usage
+Simply start the script, add the desired Cloudfront domain and see which Cloudfront edge is delivering the content to you.
+
+#Contribute
+Please feel free to improve this script or add edge locations to locations.json.
