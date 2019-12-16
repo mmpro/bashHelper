@@ -2,3 +2,7 @@
 
 # Created by .ignore support plugin (hsz.mobi)
 **/**/config.txt
+
+**localCommands.txt**
+**local/**
+**/node_modules/**
